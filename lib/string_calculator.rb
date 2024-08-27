@@ -2,8 +2,8 @@
 class StringCalculator
     def self.add(numbers)
         return 0 if numbers.empty?
-        return numbers.to_i if numbers.to_i.to_s == numbers
-    end
-      
+        number_array = numbers.split(",").map(&:to_i)
+        return number_array.sum
+    end 
 end
   
