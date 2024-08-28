@@ -18,9 +18,9 @@ The String Calculator is a simple utility that adds numbers provided in a string
 
 ### Prerequisites
 
-- Ruby 3.0 or higher
-- Rails 6.1 or higher
+- Ruby 2.7.0 or higher
 - Bundler
+- Rspec(2.4.22)
 
 ### Steps
 
