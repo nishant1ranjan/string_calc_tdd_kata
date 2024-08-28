@@ -27,7 +27,7 @@ The String Calculator is a simple utility that adds numbers provided in a string
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/string_calculator.git
+   git clone https://github.com/nishant1ranjan/string_calculator.git
    cd string_calculator
 
 2.) Install dependencies:
